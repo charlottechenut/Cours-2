@@ -1,10 +1,10 @@
 /* style.css */
 body{
-  background: rgb(245,245,245);
+  background: rgb(204,204,255);
   color: black;
   font-size: 25px;
  font-family: 'Open Sans', sans-serif;
- 
+
 h1{
   font-family: Courier;
   color: red;
